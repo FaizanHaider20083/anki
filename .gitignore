@@ -1,0 +1,23 @@
+# Credentials & secrets
+creds.json
+token.json
+*.pem
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE / OS
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# Logs & temp
+failed_words.txt
+*.log
