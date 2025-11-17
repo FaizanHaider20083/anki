@@ -1,0 +1,440 @@
+参加者 (sankasha): participant
+募集 (boshuu): recruitment
+知らせ (shirase): notice, announcement
+申込 (moushikomi): application
+方法 (houhou): method, process
+内容 (naiyou): content, details
+理解 (rikai): understanding
+都会 (tokai): city, urban area
+真ん中 (mannaka): center, middle
+野菜作り (yasai zukuri): vegetable growing
+本年度 (honnendo): this fiscal year
+市民 (shimin): citizen
+農園 (nouen): farm
+利用者 (riyousha): user, participant
+開始 (kaishi): to start, to begin
+希望 (kibou): hope, wish
+方 (kata): person (polite)
+末日 (matsujitsu): last day of the month
+昨年 (sakunen): last year
+区画 (kukaku): plot, section
+対して (taishite): for, in regards to
+約 (yaku): approximately
+名 (mei): counter for people
+応募 (oubo): application, subscription
+希望者 (kibousha): applicant
+多い (ooi): many
+定員 (teiin): capacity, fixed number of people
+超える (koeru): to exceed, to surpass
+場合 (baai): case, situation
+初めて (hajimete): for the first time
+優先 (yuusen): priority, preference
+家族 (kazoku): family
+限定 (gentei): to limit, to restrict
+問い合わせ (toiawase): inquiry
+締め切り (shimekiri): deadline
+下記 (kaki): the following, below
+皆様 (minasama): everyone (polite)
+待つ (matsu): to wait
+利用 (riyou): use
+料金 (ryoukin): fee, charge
+年 (nen): year
+円 (en): yen
+市役所 (shiyakusho): city hall, municipal office
+生活課 (seikatsuka): lifestyle division
+手段 (shudan): means, way
+方法 (houhou): method
+表す (arawasu): to express
+大学 (daigaku): university
+満足度 (manzokudo): degree of satisfaction
+調査 (chousa): survey, investigation
+結果 (kekka): result
+発表 (happyou): announcement
+経営学 (keieigaku): business administration
+理論 (riron): theory
+講義 (kougi): lecture
+試験 (shiken): exam
+行わず (okonawazu): without doing
+評価 (hyouka): evaluation
+開催地 (kaisanchi): host city, venue
+委員 (iin): committee member
+投票 (touhyou): vote
+決める (kimeru): to decide
+社内 (shanai): internal (company)
+公用語 (kouyougo): official language
+英語 (eigo): English
+国際化 (kokusaika): internationalization
+目指す (mezasu): to aim for
+通信販売 (tsuushin hanbai): mail order, online shopping
+売り上げ (uriage): sales
+全体 (zentai): whole, total
+占める (shimeru): to account for, to occupy
+占い (uranai): fortune-telling
+自分 (jibun): oneself
+将来 (shourai): future
+人々 (hitobito): people
+協力 (kyouryoku): cooperation
+無事 (buji): safely
+終了 (shuuryou): to finish, to end
+大雨 (ooame): heavy rain
+山崩れ (yamakuzure): landslide
+楽しみ方 (tanoshimikata): way of enjoying
+直接 (chokusetsu): direct
+働きかけ (hatarakikake): approach, action
+態度 (taido): attitude
+意見 (iken): opinion
+問題 (mondai): problem
+要求 (youkyuu): demand, request
+応える (kotaeru): to respond
+反対 (hantai): to oppose
+彼女 (kanojo): she, girlfriend
+誰 (dare): who
+親切 (shinsetsu): kind
+目上 (meue): superior, senior
+敬語 (keigo): honorific language
+私費 (shihi): privately funded
+留学生 (ryuugakusei): international student
+奨学金 (shougakukin): scholarship
+援助 (enjo): aid, assistance
+十分 (juubun): enough, sufficient
+病気 (byouki): illness
+効果的 (koukateki): effective
+治療法 (chiryouhou): treatment method
+社員 (shain): employee
+要求 (youkyuu): demand, request
+会社側 (kaishagawa): the company's side, management
+回答 (kaitou): response, answer
+親 (oya): parent
+愛情 (aijou): love, affection
+時代 (jidai): era, period
+変わる (kawaru): to change
+開発 (kaihatsu): development
+計画 (keikaku): plan
+住民 (juumin): residents
+不満 (fuman): dissatisfaction
+希望者 (kibousha): applicant
+原因 (gen'in): cause
+理由 (riyuu): reason
+雨 (ame): rain
+中止 (chuushi): cancellation
+外国人 (gaikokujin): foreigner
+観光客 (kankoukyaku): tourist
+増える (fueru): to increase
+外国語 (gaikokugo): foreign language
+事故 (jiko): accident
+電車 (densha): train
+遅れる (okureru): to be late, to be delayed
+受験 (juken): taking an examination
+文末 (bunmatsu): end of a sentence
+使う (tsukau): to use
+私 (watashi): I
+乗る (noru): to ride
+新幹線 (shinkansen): bullet train
+信号 (shingou): signal
+故障 (koshou): breakdown, failure
+売れる (ureru): to be sold
+今年 (kotoshi): this year
+夏 (natsu): summer
+暑い (atsui): hot
+時間 (jikan): hour
+以上 (ijou): more than
+遅れる (okureru): to be late
+大型 (oogata): large size
+来月 (raigetsu): next month
+飛行機代 (hikoukidai): airfare
+値上がり (neagari): price increase
+石油 (sekiyu): oil, petroleum
+値段 (nedan): price
+上がる (agaru): to rise
+近く (chikaku): nearby
+道路 (douro): road
+渋滞 (juutai): traffic jam
+家族 (kazoku): family
+区画 (kukaku): plot, section
+使用料 (shiyouryou): usage fee
+数 (kazu): number
+単位 (tan'i): unit
+言う (iu): to say
+使う (tsukau): to use
+当 (tou): this (as in, this club)
+会員 (kaiin): member
+以外 (igai): other than, except
+一回 (ikkai): once, one time
+施設 (shisetsu): facility
+利用 (riyou): use
+今回 (konkai): this time
+一枚 (ichimai): one (flat object)
+名様 (meisama): person (polite counter)
+申込 (moushikomi): application
+予約制 (yoyakusei): reservation system
+一人 (hitori): one person
+分 (fun): minute
+今日 (kyou): today
+映画 (eiga): movie
+本当 (hontou): really, truly
+友達 (tomodachi): friend
+言う (iu): to say
+初めて (hajimete): for the first time
+見る (miru): to see
+富士山 (fujisan): Mt. Fuji
+私 (watashi): I
+想像 (souzou): imagination
+料理 (ryouri): cooking, cuisine
+本 (hon): book
+書く (kaku): to write
+作る (tsukuru): to make
+体操 (taisou): exercise, gymnastics
+始める (hajimeru): to begin
+動く (ugoku): to move
+教える (oshieru): to teach
+道 (michi): road, way
+間違える (machigaeru): to make a mistake
+地図 (chizu): map
+持つ (motsu): to hold, to bring
+来る (kuru): to come
+思う (omou): to think
+形 (katachi): form, shape
+使われる (tsukawareru): to be used
+予定 (yotei): plan, schedule
+仕事 (shigoto): work, job
+進む (susumu): to proceed, to advance
+結婚 (kekkon): marriage
+予想 (yosou): expectation, prediction
+説明書 (setsumeisho): instruction manual
+途中 (tochuu): halfway, in the middle of
+本校 (honkou): this school
+筆記 (hikki): written exam
+試験 (shiken): examination
+面接 (mensetsu): interview
+合格者 (goukakusha): successful candidate
+決める (kimeru): to decide
+市民 (shimin): citizen
+団体 (dantai): group, organization
+市長 (shichou): mayor
+新しい (atarashii): new
+市役所 (shiyakusho): city hall, municipal office
+建設 (kensetsu): construction
+中止 (chuushi): to cancel, to suspend
+要求 (youkyuu): to demand, to request
+経験者 (keikensha): experienced person
+感想 (kansou): impressions, thoughts
+活動 (katsudou): activity
+内容 (naiyou): content
+様子 (yousu): appearance, situation
+家族 (kazoku): family
+仲間 (nakama): companion, friend
+一緒 (issho): together
+収穫 (shuukaku): harvest
+野菜 (yasai): vegetable
+食べる (taberu): to eat
+最高 (saikou): the best
+野菜作り (yasai zukuri): vegetable growing
+通して (tooshite): through, via
+自然 (shizen): nature
+親しむ (shitashimu): to get familiar with
+楽しい (tanoshii): fun, enjoyable
+実際 (jissai): in reality, actually
+利用 (riyou): to use
+話 (hanashi): talk, story
+思う (omou): to think
+簡単 (kantan): simple, easy
+子ども (kodomo): child
+話す (hanasu): to speak
+機会 (kikai): opportunity
+増える (fueru): to increase
+農園 (nouen): farm
+詳しい (kuwashii): detailed
+紹介 (shoukai): introduction
+皆さん (minasan): everyone
+指導員 (shidouin): instructor
+直接 (chokusetsu): direct
+手段 (shudan): means, way
+物事 (monogoto): things
+間 (aida): between
+入る (hairu): to enter
+表す (arawasu): to express
+現在 (genzai): the present, now
+世界中 (sekaijuu): all over the world
+広まる (hiromaru): to spread
+読書 (dokusho): reading
+考え方 (kangaekata): way of thinking, mindset
+知る (shiru): to know
+取材 (shuzai): news coverage, interview
+弁護士 (bengoshi): lawyer
+申し込む (moushikomu): to apply
+海外 (kaigai): overseas
+留学 (ryuugaku): studying abroad
+経験 (keiken): experience
+学ぶ (manabu): to learn
+楽しい (tanoshii): fun, enjoyable
+代表的 (daihyouteki): representative, typical
+例 (rei): example
+病気 (byouki): illness
+治る (naoru): to be cured, to heal
+学校 (gakkou): school
+選手 (senshu): athlete, player
+食事 (shokuji): meal
+練習 (renshuu): practice
+大切 (taisetsu): important
+梅雨 (tsuyu): rainy season
+雨 (ame): rain
+季節 (kisetsu): season
+洗濯物 (sentakumono): laundry
+乾く (kawaku): to get dry
+困る (komaru): to be troubled, to be bothered
+体力 (tairyoku): physical strength
+激しい (hageshii): intense
+世の中 (yononaka): society, the world
+仕事 (shigoto): job, work
+手伝う (tetsudau): to help
+働く (hataraku): to work
+動物 (doubutsu): animal
+大都市 (daitoshi): large city
+車 (kuruma): car
+電車 (densha): train
+地下鉄 (chikatetsu): subway
+便利 (benri): convenient
+大きい (ookii): big
+捨てる (suteru): to throw away
+区役所 (kuyakusho): ward office
+連絡 (renraku): to contact
+高い (takai): high
+食べる (taberu): to eat
+体 (karada): body
+悪い (warui): bad
+友達 (tomodachi): friend
+会話 (kaiwa): conversation
+使う (tsukau): to use
+大きい (ookii): big
+重い (omoi): heavy
+引っ越し (hikkoshi): moving (house)
+大変 (taihen): tough, difficult
+夏野菜 (natsu yasai): summer vegetables
+育てやすい (sodateyasui): easy to grow
+冬 (fuyu): winter
+暖かい (atatakai): warm
+所 (tokoro): place
+旅行 (ryokou): travel
+本当 (hontou): real, true
+雪 (yuki): snow
+降る (furu): to fall (rain, snow)
+利用 (riyou): use
+話 (hanashi): story, talk
+情報 (jouhou): information
+知る (shiru): to know
+言う (iu): to say
+文 (bun): sentence
+終わり (owari): end
+形 (katachi): form, shape
+最近 (saikin): recently
+調査 (chousa): survey, investigation
+病気 (byouki): illness
+不健康 (fukenkou): unhealthy
+増える (fueru): to increase
+今朝 (kesa): this morning
+天気 (tenki): weather
+予報 (yohou): forecast
+今週 (konshuu): this week
+晴れる (hareru): to be sunny
+観光 (kankou): sightseeing
+町 (machi): town
+毎週 (maishuu): every week
+日曜日 (nichiyoubi): Sunday
+朝市 (asaichi): morning market
+開かれる (hirakareru): to be held
+掲示板 (keijiban): bulletin board
+商店街 (shoutengai): shopping district
+安い (yasui): cheap
+新しい (atarashii): new
+導入 (dounyuu): introduction, implementation
+全社員 (zenshain): all employees
+残業 (zangyou): overtime work
+時間 (jikan): time
+大幅 (oohaba): significant, drastic
+短縮 (tanshuku): reduction, shortening
+利用者 (riyousha): user
+非常に (hijou ni): very, extremely
+満足 (manzoku): satisfaction
+楽しい (tanoshii): fun
+聞いた (kiita): heard
+情報 (jouhou): information
+内容 (naiyou): content
+他 (hoka): other
+人 (hito): person
+伝える (tsutaeru): to convey, to tell
+使う (tsukau): to use
+今年 (kotoshi): this year
+水不足 (mizubusoku): water shortage
+心配 (shinpai): worry
+部長 (buchou): department manager
+話 (hanashi): story, talk
+新入社員 (shinnyuu shain): new employee
+数 (kazu): number
+去年 (kyonen): last year
+倍 (bai): double, twice
+電話 (denwa): phone call
+後で (atode): later
+孫 (mago): grandchild
+生まれる (umareru): to be born
+道 (michi): road
+混む (komu): to be crowded
+会う (au): to meet
+楽しみ (tanoshimi): fun, something to look forward to
+雪 (yuki): snow
+降る (furu): to fall (rain, snow)
+機械 (kikai): machine
+異常 (ijou): abnormality
+来月 (raigetsu): next month
+来日 (rainichi): coming to Japan
+到着 (touchaku): arrival
+少し (sukoshi): a little
+遅れる (okureru): to be late
+事故 (jiko): accident
+原因 (gen'in): cause
+調べる (shiraberu): to investigate
+電車 (densha): train
+動く (ugoku): to move
+今年度 (konnendo): this fiscal year
+求人 (kyuujin): job opening
+情報 (jouhou): information
+部屋 (heya): room
+借りる (kariru): to borrow, to rent
+安全面 (anzenmen): safety aspect
+確認 (kakunin): confirmation
+図書館 (toshokan): library
+機械工学 (kikai kougaku): mechanical engineering
+本 (hon): book
+趣味 (shumi): hobby
+話して (hanashite): to speak
+製品 (seihin): product
+質問 (shitsumon): question
+連絡 (renraku): contact
+経営 (keiei): management
+方針 (houshin): policy
+説明 (setsumei): explanation
+毎年 (maitoshi): every year
+学校 (gakkou): school
+自転車 (jitensha): bicycle
+利用者 (riyousha): user
+交通安全 (koutsuu anzen): traffic safety
+指導 (shidou): guidance, instruction
+行う (okonau): to carry out
+卒業論文 (sotsugyou ronbun): graduation thesis
+先生 (sensei): teacher
+相談 (soudan): consultation
+思う (omou): to think
+旅行 (ryokou): travel
+素晴らしい (subarashii): wonderful, splendid
+美術館 (bijutsukan): art museum
+町 (machi): town
+話 (hanashi): talk, story
+来週 (raishuu): next week
+共通 (kyoutsuu): common
+友人 (yuujin): friend
+妻 (tsuma): wife
+知り合う (shiriau): to get acquainted with
+台風 (taifuu): typhoon
+近づく (chikazuku): to approach
+皆さん (minasan): everyone
+十分 (juubun): enough, sufficiently
+気をつける (ki o tsukeru): to be careful

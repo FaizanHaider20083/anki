@@ -1,0 +1,381 @@
+お花見 (ohanami): cherry blossom viewing
+身近 (mijika): familiar, close to one
+話題 (wadai): topic
+個人的 (kojinteki): personal
+考え方 (kangaekata): way of thinking, thoughts
+感じ方 (kanjikata): way of feeling
+表現 (hyougen): expression
+毎年 (maitoshi): every year
+桜 (sakura): cherry blossom
+季節 (kisetsu): season
+行く (iku): to go
+私 (watashi): I, me
+問題 (mondai): problem, question
+花 (hana): flower
+咲く (saku): to bloom
+意味 (imi): meaning
+雪 (yuki): snow
+降る (furu): to fall (for rain, snow)
+五分咲き (gobuzaki): half bloom
+満開 (mankai): full bloom
+散り始め (chirihajime): beginning to fall (petals)
+花びら (hanabira): flower petal
+見る (miru): to see
+好き (suki): to like
+良さ (yosa): goodness, merit
+残る (nokoru): to remain
+時期 (jiki): time period, season
+短い (mijikai): short
+大変 (taihen): very, difficult
+名所 (meisho): famous place
+素晴らしい (subarashii): wonderful, splendid
+花見客 (hanamikyaku): blossom viewers
+お茶会 (ochakai): tea party
+催し (moyoshi): event
+楽しむ (tanoshimu): to enjoy
+楽しみ方 (tanoshimikata): way of enjoying
+人 (hito): person
+それぞれ (sorezore): each, respectively
+数人 (suunin): several people
+友人 (yuujin): friend
+一緒 (issho): together
+多い (ooi): many
+実現 (jitsugen): realization, implementation
+言う (iu): to say
+使う (tsukau): to use
+難しい (muzukashii): difficult
+否定的 (hiteiteki): negative
+会社 (kaisha): company
+研修 (kenshuu): training
+受ける (ukeru): to receive, to take (a lesson, exam)
+正社員 (seishain): full-time employee
+大切 (taisetsu): important
+両親 (ryoushin): parents
+相談 (soudan): consultation, to discuss
+決める (kimeru): to decide
+初めて (hajimete): for the first time
+買う (kau): to buy
+眼科 (ganka): ophthalmologist, eye doctor
+検査 (kensa): inspection, examination
+食べる (taberu): to eat
+焼く (yaku): to grill, to bake
+入金 (nyuukin): payment, deposit
+確認 (kakunin): confirmation
+商品 (shouhin): product, goods
+発送 (hassou): shipping, sending
+事前 (jizen): in advance
+調査 (chousa): investigation, survey
+進める (susumeru): to proceed with, to advance
+治る (naoru): to be cured, to heal
+学校 (gakkou): school
+来る (kuru): to come
+薬 (kusuri): medicine
+食事 (shokuji): meal
+飲む (nomu): to drink
+雪 (yuki): snow
+降る (furu): to fall (of rain, snow)
+実際 (jissai): actually, in reality
+感じる (kanjiru): to feel
+形 (katachi): form, shape
+部屋 (heya): room
+泥棒 (dorobou): thief, burglar
+入る (hairu): to enter
+散らかる (chirakaru): to be messy, to be cluttered
+冬 (fuyu): winter
+戻る (modoru): to return
+寒い (samui): cold (weather)
+日 (hi): day
+続く (tsuzuku): to continue
+紅葉 (kouyou): autumn leaves
+名所 (meisho): famous place
+秋 (aki): autumn, fall
+全体 (zentai): the whole, entire
+燃える (moeru): to burn
+赤く (akaku): red (adverb)
+染まる (somaru): to be dyed
+犯人 (hannin): criminal, culprit
+警察 (keisatsu): police
+質問 (shitsumon): question
+事件 (jiken): incident, case
+何 (nani): what
+知る (shiru): to know
+答える (kotaeru): to answer
+子犬 (koinu): puppy
+自分 (jibun): oneself
+子ども (kodomo): child
+かわいがる (kawaigaru): to cherish, to treat with affection
+花 (hana): flower
+残る (nokoru): to remain
+変化 (henka): change
+起きる (okiru): to happen, to occur
+前 (mae): before
+何か (nanika): something
+言う (iu): to say
+時 (toki): time, when
+使う (tsukau): to use
+溶ける (tokeru): to melt
+食べる (taberu): to eat
+銀行 (ginkou): bank
+開く (aku): to be open
+振り込み (furikomi): bank transfer
+行く (iku): to go
+鉄 (tetsu): iron
+熱い (atsui): hot
+打つ (utsu): to strike, to hit
+若い (wakai): young
+鍛える (kitaeru): to forge, to train
+意味 (imi): meaning
+子ども (kodomo): child
+外国語 (gaikokugo): foreign language
+習う (narau): to learn
+意見 (iken): opinion
+魚 (sakana): fish
+傷む (itamu): to be damaged, to spoil
+新鮮 (shinsen): fresh
+港 (minato): harbor, port
+運ぶ (hakobu): to carry, to transport
+加工 (kakou): processing, manufacturing
+お兄ちゃん (oniichan): older brother
+出かける (dekakeru): to go out
+大事 (daiji): important
+忘れる (wasureru): to forget
+お客様 (okyakusama): customer, guest
+顔 (kao): face
+覚える (oboeru): to remember
+名刺 (meishi): business card
+整理 (seiri): to organize
+住む (sumu): to live
+慣れる (nareru): to get used to
+花見客 (hanamikyaku): cherry blossom viewer
+向け (muke): intended for, aimed at
+特定 (tokutei): specific
+人 (hito): person
+表す (arawasu): to express, to show
+子ども (kodomo): child
+映画 (eiga): movie
+大人 (otona): adult
+人気 (ninki): popular
+最近 (saikin): recently
+若い (wakai): young
+女性 (josei): female, woman
+雑誌 (zasshi): magazine
+記事 (kiji): article
+多い (ooi): many, much
+当社 (tousha): our company
+輸出 (yushutsu): export
+左 (hidari): left
+車 (kuruma): car
+生産 (seisan): production
+独身者 (dokushinsha): single person, unmarried person
+建てる (tateru): to build
+性質 (seishitsu): nature, characteristic
+彼女 (kanojo): she, her
+声優 (seiyuu): voice actor
+声 (koe): voice
+山 (yama): mountain
+道 (michi): road, path
+狭い (semai): narrow
+険しい (kewashii): steep
+経験者 (keikensha): experienced person
+服 (fuku): clothes
+仕事 (shigoto): job, work
+買う (kau): to buy
+人 (hito): person
+楽しみ方 (tanoshimikata): way of enjoying
+場所 (basho): place
+時間 (jikan): time
+対応 (taiou): correspondence, dealing with
+違う (chigau): to differ, to be wrong
+好み (konomi): preference, taste
+考え方 (kangaekata): way of thinking
+当然 (touzen): of course, natural
+曜日 (youbi): day of the week
+特売品 (tokubaihin): special sale item
+設定 (settei): to set up, to establish
+集客 (shuukyaku): attracting customers
+工夫 (kufuu): scheme, device
+地域 (chiiki): area, region
+お弁当 (obentou): boxed lunch
+味付け (ajitsuke): seasoning, flavor
+変える (kaeru): to change
+調査 (chousa): survey, investigation
+結果 (kekka): result
+世代 (sedai): generation
+利用 (riyou): use, utilization
+目的 (mokuteki): purpose
+違い (chigai): difference
+分かる (wakaru): to understand
+場所 (basho): place
+電話 (denwa): telephone
+繋がる (tsunagaru): to be connected
+場合 (baai): case, situation
+特別 (tokubetsu): special
+状況 (joukyou): situation, circumstances
+言う (iu): to say
+使う (tsukau): to use
+薬 (kusuri): medicine
+人 (hito): person
+副作用 (fukusayou): side effect
+出る (deru): to appear, to come out
+参加者 (sankasha): participant
+人数 (ninzuu): number of people
+会場 (kaijou): venue, assembly hall
+変更 (henkou): change, modification
+台風 (taifuu): typhoon
+進路 (shinro): course, route
+交通機関 (koutsuukikan): transportation facilities
+影響 (eikyou): influence, effect
+私 (watashi): I, me
+受験 (juken): taking an exam
+大学 (daigaku): university
+学部 (gakubu): academic department
+宿泊 (shukuhaku): lodging
+料金 (ryoukin): fee, charge
+変わる (kawaru): to change
+何日前 (nannichimae): how many days in advance
+予約 (yoyaku): reservation
+店 (mise): shop, store
+料理屋 (ryouriya): restaurant
+当日 (toujitsu): that day, the day in question
+仕入れ (shiire): stocking, purchasing
+食材 (shokuzai): ingredient
+雪 (yuki): snow
+検査 (kensa): inspection, examination
+入学試験 (nyuugakushiken): entrance examination
+日 (hi): day
+明日 (ashita): tomorrow
+雨 (ame): rain
+手術 (shujutsu): surgery
+必要 (hitsuyou): necessary
+申し込み (moushikomi): application
+大雨 (ooame): heavy rain
+山崩れ (yamakuzure): landslide
+特に (toku ni): especially
+自分 (jibun): oneself
+気持ち (kimochi): feeling, mood
+表現 (hyougen): expression
+見ごろ (migoro): best time to see
+友だち (tomodachi): friend
+仕事 (shigoto): work
+最中 (saichuu): in the middle of
+電話 (denwa): telephone call
+話 (hanashi): talk, story
+今日 (kyou): today
+聞く (kiku): to ask
+やりかけ (yarikake): unfinished
+残る (nokoru): to remain
+答える (kotaeru): to answer
+夜中 (yonaka): middle of the night
+当然 (touzen): naturally, of course
+帰る (kaeru): to go home, to return
+毎年 (maitoshi): every year
+必ず (kanarazu): always, without fail
+お気に入り (okiniiri): favorite
+場所 (basho): place, location
+名所 (meisho): famous place
+静か (shizuka): quiet
+ゆっくり (yukkuri): slowly, leisurely
+桜 (sakura): cherry blossom
+楽しむ (tanoshimu): to enjoy
+家族 (kazoku): family
+一人 (hitori): one person, alone
+買い物 (kaimono): shopping
+途中 (tochuu): on the way
+家 (ie): house
+近く (chikaku): near, nearby
+木の下 (kinoshita): under a tree
+足を止める (ashi o tomeru): to stop walking
+急ぐ (isogu): to hurry
+見上げる (miageru): to look up
+時間 (jikan): time
+大切にする (taisetsu ni suru): to cherish, to take good care of
+思う (omou): to think
+何か (nanika): something
+起きる (okiru): to happen, to occur
+邪魔 (jama): hindrance, disturbance
+状況 (joukyou): situation, circumstances
+面接 (mensetsu): interview
+鳴る (naru): to make a sound, to ring
+引っ越し (hikkoshi): moving (house)
+飼う (kau): to keep (a pet)
+犬 (inu): dog
+逃げ出す (nigedasu): to run away, to escape
+大騒ぎ (oosawagi): uproar, clamor
+入力 (nyuuryoku): input
+扉 (tobira): door
+向こう (mukou): the other side, beyond
+連続殺人事件 (renzoku satsujin jiken): serial murder case
+裁判 (saiban): trial, judgment
+行われる (okonawareru): to be held
+漫画家 (mangaka): manga artist
+決心 (kesshin): determination
+絶対 (zettai): absolutely
+途中 (tochuu): on the way, in the middle
+あきらめる (akirameru): to give up
+検査 (kensa): examination, inspection
+急に (kyuu ni): suddenly
+気分 (kibun): feeling, mood
+悪い (warui): bad
+看護師 (kangoshi): nurse
+呼ぶ (yobu): to call
+試験 (shiken): exam
+終わる (owaru): to finish, to end
+結果発表 (kekka happyou): announcement of results
+間 (aida): between
+緊張 (kinchou): tension, nervousness
+緊急 (kinkyuu): urgent, emergency
+連絡 (renraku): contact, communication
+先生 (sensei): teacher
+来ない (konai): to not come
+宿題 (shukudai): homework
+見せる (miseru): to show
+仕事 (shigoto): job, work
+何か (nanika): something
+始める (hajimeru): to begin, to start
+状態 (joutai): state, condition
+言う (iu): to say
+使う (tsukau): to use
+形 (katachi): form, shape
+弟 (otouto): younger brother
+部屋 (heya): room
+図書館 (toshokan): library
+借りる (kariru): to borrow
+本 (hon): book
+返却日 (henkyakubi): return date
+昨夜 (yuube): last night
+書く (kaku): to write
+編む (amu): to knit
+何度 (nando): how many times, many times
+冷蔵庫 (reizouko): refrigerator
+食べる (taberu): to eat
+知らない (shiranai): to not know
+彼 (kare): he
+日本語 (nihongo): Japanese language
+手紙 (tegami): letter
+書く (kaku): to write
+難しい (muzukashii): difficult
+途中 (tochuu): on the way, in the middle of
+英語 (eigo): English language
+我慢 (gaman): patience, endurance
+状況 (joukyou): situation, circumstances
+言う (iu): to say
+使う (tsukau): to use
+蚊 (ka): mosquito
+刺す (sasu): to bite, to sting
+人 (hito): person
+間違い (machigai): mistake
+笑う (warau): to laugh
+失礼 (shitsurei): rude, impolite
+大声 (oogoe): loud voice
+出す (dasu): to put out, to produce
+友だち (tomodachi): friend
+悪口 (waruguchi): slander, bad-mouthing
+怒る (okoru): to get angry
+一流 (ichiryuu): first-class, top-notch
+水泳選手 (suiei senshu): swimmer (athlete)
+毎日 (mainichi): every day
+練習 (renshuu): practice
+形 (katachi): form, shape
+同じ (onaji): same
+彼女 (kanojo): she, girlfriend
+お祭り (omatsuri): festival
