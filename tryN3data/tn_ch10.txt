@@ -1,0 +1,626 @@
+選択 (sentaku) - choice
+将来 (shourai) - future
+展望 (tenbou) - outlook
+自分 (jibun) - oneself
+意見 (iken) - opinion
+強く (tsuyoku) - strongly
+主張する (shuchou suru) - to assert
+お母さん (okaasan) - mother
+話 (hanashi) - talk, story
+私 (watashi) - I
+大学 (daigaku) - university
+劇団 (gekidan) - theater company
+仕事 (shigoto) - job, work
+集中したい (shuuchuu shitai) - to want to concentrate
+思う (omou) - to think
+聞く (kiku) - to listen
+演劇 (engeki) - theater, drama
+好き (suki) - likeable, fond of
+卒業して (sotsugyou shite) - after graduating
+考える (kangaeru) - to think, to consider
+真剣に (shinken ni) - seriously
+心配している (shinpai shiteiru) - to be worried
+生活 (seikatsu) - livelihood, life
+就職 (shuushoku) - finding employment
+限らない (kagiranai) - not necessarily, not limited to
+絶対 (zettai) - absolutely
+否定したい (hitei shitai) - to want to deny
+使う (tsukau) - to use
+形 (katachi) - form, shape
+必ず (kanarazu) - always, without fail
+自信 (jishin) - confidence
+言う (iu) - to say
+相手 (aite) - opponent, partner
+世界 (sekai) - world
+頑張る (ganbaru) - to do one's best
+勝てる (kateru) - to be able to win
+座っている (suwatteiru) - to be sitting
+人 (hito) - person
+部長 (buchou) - department head
+違う (chigau) - to be different, wrong
+今日 (kyou) - today
+名古屋 (nagoya) - Nagoya
+出張 (shucchou) - business trip
+準備 (junbi) - preparation
+うまく行かない (umaku ikanai) - to not go well
+持つ (motsu) - to have, to hold
+知らなかった (shiranakatta) - did not know
+担当者 (tantousha) - person in charge
+部屋代 (heyadai) - rent
+安ければ (yasukereba) - if it's cheap
+住みたい (sumitai) - to want to live
+駅から (eki kara) - from the station
+近い (chikai) - near, close
+新しい (atarashii) - new
+安い (yasui) - cheap, inexpensive
+富士山 (fujisan) - Mt. Fuji
+走って (hashitte) - by running
+登る (noboru) - to climb
+競走 (kyousou) - race
+一緒に (issho ni) - together
+だめ (dame) - no good
+一日 (ichinichi) - one day
+言葉 (kotoba) - word, language
+覚えなさい (oboenasai) - memorize (as an order)
+言われちゃった (iwarechatta) - was told (casual)
+覚える (oboeru) - to memorize
+覚えられる (oboerareru) - to be able to memorize
+本 (hon) - book
+仕入れちゃって (shiirechatte) - to stock up (casual)
+大丈夫 (daijoubu) - okay, alright
+人気作家 (ninki sakka) - popular author
+最新作 (saishinsaku) - latest work
+売れる (ureru) - to sell (intransitive)
+売れない (urenai) - to not sell (intransitive)
+同じ (onaji) - same
+形 (katachi) - form, shape
+使う (tsukau) - to use
+海外転勤 (kaigai tenkin) - overseas transfer
+話 (hanashi) - story, talk
+断った (kotowatta) - refused
+ずっと (zutto) - for a long time, all along
+面白い (omoshiroi) - interesting
+ぜんぜん (zenzen) - not at all (with negative)
+わからない (wakaranai) - to not understand
+実際に (jissai ni) - actually, in reality
+素晴らしい (subarashii) - wonderful, splendid
+仕事 (shigoto) - job, work
+今 (ima) - now
+状況 (joukyou) - situation, current state of affairs
+これ (kore) - this
+以外 (igai) - with the exception of
+方法 (houhou) - method, way
+気持ち (kimochi) - feeling, mood
+多い (ooi) - many, numerous
+入学試験 (nyuugaku shiken) - university entrance exam
+一週間 (isshuukan) - one week
+台風 (taifuu) - typhoon
+飛行機 (hikouki) - airplane
+欠航 (kekkou) - cancellation of a flight or sailing
+お金 (okane) - money
+空港 (kuukou) - airport
+一泊する (ippaku suru) - to stay for one night
+全員 (zen'in) - all members
+集まれる (atsumareru) - to be able to gather
+金曜 (kin'you) - Friday
+午後 (gogo) - afternoon, P.M.
+終電 (shuuden) - last train
+明日 (ashita) - tomorrow
+締め切り (shimekiri) - deadline
+まだ (mada) - still, yet
+半分 (hanbun) - half
+以上 (ijou) - more than, not less than
+学生 (gakusei) - student
+欠席して (kesseki shite) - being absent
+予約 (yoyaku) - reservation
+受け付けてくれない (uketsukete kurenai) - to not accept
+休校 (kyuukou) - school closure
+先生 (sensei) - teacher
+言った (itta) - said
+食べたかったら (tabetakattara) - if you want to eat
+並ぶ (narabu) - to line up, to stand in a queue
+歩いて (aruite) - by walking
+帰る (kaeru) - to return home
+徹夜する (tetsuya suru) - to stay up all night
+形 (katachi) - form, shape
+同じ (onaji) - same
+使う (tsukau) - to use
+天候不順 (tenkou fujun) - unseasonable weather
+山頂 (sanchou) - summit of a mountain
+行く (iku) - to go
+あきらめる (akirameru) - to give up
+薬 (kusuri) - medicine
+治せない (naosenai) - cannot be cured
+手術する (shujutsu suru) - to have a surgery
+医者 (isha) - doctor
+言われた (iwareta) - was told
+高層ビル (kousou biru) - skyscraper
+建設 (kensetsu) - construction
+対する (taisuru) - towards, against
+住民 (juumin) - residents
+反対運動 (hantai undou) - opposition movement
+続いています (tsudzuite imasu) - is continuing
+計画 (keikaku) - plan
+変更する (henkou suru) - to change, to alter
+心配している (shinpai shiteiru) - to be worried
+大切な (taisetsu na) - important
+理由 (riyuu) - reason
+特別な (tokubetsu na) - special
+強調したい (kyouchou shitai) - to want to emphasize
+言い方 (iikata) - way of speaking
+大変な (taihen na) - difficult, tough
+協力する (kyouryoku suru) - to cooperate
+国 (kuni) - country
+人たち (hitotachi) - people
+交流できた (kouryuu dekita) - was able to interact
+留学した (ryuugaku shita) - studied abroad
+今度 (kondo) - this time
+無理だ (muri da) - impossible
+難しい (muzukashii) - difficult
+君 (kimi) - you (informal)
+人生 (jinsei) - life
+思い通りにいかない (omoidoori ni ikanai) - doesn't go as one wishes
+面白い (omoshiroi) - interesting
+お互い (otagai) - each other
+信頼関係 (shinrai kankei) - relationship of trust
+問題 (mondai) - problem
+皆さん (minasan) - everyone
+応援 (ouen) - support
+子ども (kodomo) - child
+使う (tsukau) - to use
+彼 (kare) - he
+非常に (hijou ni) - extremely
+個性的 (koseiteki) - individualistic, unique
+政治家 (seijika) - politician
+優勝できた (yuushou dekita) - was able to win the championship
+国民 (kokumin) - the people of a country, citizens
+期待された (kitai sareta) - was expected
+自由に (jiyuu ni) - freely
+意見 (iken) - opinion
+言い合える (iiaeru) - to be able to exchange (opinions)
+安全な (anzen na) - safe
+選びたい (erabitai) - to want to choose
+演劇 (engeki) - theatre, play
+重要でない (juuyou denai) - not important
+謙遜する (kenson suru) - to be humble
+困らない (komaranai) - to not be troubled
+仕事 (shigoto) - work, job
+恋人 (koibito) - lover, partner
+結婚 (kekkon) - marriage
+準備すれば (junbi sureba) - if one prepares
+簡単 (kantan) - simple, easy
+先月 (sengetsu) - last month
+営業部 (eigyoubu) - sales department
+成績 (seiseki) - results, performance
+私 (watashi) - I
+まだまだです (madamada desu) - still a long way to go, not yet
+国 (kuni) - country
+ため (tame) - for the sake of
+言っている (itteiru) - is saying
+体 (karada) - body
+いい (ii) - good
+言われても (iwaretemo) - even if told
+旅行 (ryokou) - trip, travel
+何 (nani) - what
+着ていったら (kite ittara) - if one wears and goes
+聞かれた (kikareta) - was asked
+この町 (kono machi) - this town
+人口 (jinkou) - population
+少ない (sukunai) - few, little
+服 (fuku) - clothes
+何でもいい (nan demo ii) - anything is fine
+答えた (kotaeta) - answered
+空港 (kuukou) - airport
+いらない (iranai) - to not need
+食べたくない (tabetakunai) - to not want to eat
+政治家 (seijika) - politician
+信じられない (shinjirarenai) - cannot be believed/trusted
+助詞 (joshi) - particle
+つく (tsuku) - to be attached
+お前 (omae) - you (informal)
+おれ (ore) - I (masculine, informal)
+気持ち (kimochi) - feeling
+わかる (wakaru) - to understand
+形 (katachi) - form, shape
+同じように (onaji you ni) - in the same way
+使われる (tsukawareru) - is used
+だれでも (daredemo) - anyone
+できる (dekiru) - to be able to do
+思った (omotta) - thought
+やってみると (yatte miru to) - upon trying to do
+かなり (kanari) - quite, considerably
+はげしい (hageshii) - intense
+お宅 (otaku) - your house (polite)
+犬 (inu) - dog
+ぜんぜん (zenzen) - not at all (with negative)
+言うこと (iu koto) - what one says
+聞かない (kikanai) - to not listen
+生活 (seikatsu) - livelihood, life
+絶対 (zettai) - absolutely
+考えられない (kangaerarenai) - unthinkable
+強く (tsuyoku) - strongly
+否定したい (hitei shitai) - to want to deny
+推量 (suiryou) - conjecture, guess
+一種 (isshu) - a kind of
+自分の意思 (jibun no ishi) - one's own will
+使わない (tsukawanai) - to not use
+練習 (renshuu) - practice
+今度 (kondo) - this time
+大会 (taikai) - tournament, competition
+絶対 (zettai) - absolutely
+優勝 (yuushou) - victory, championship
+簡単 (kantan) - simple, easy
+買い物 (kaimono) - shopping
+計画的に (keikakuteki ni) - systematically, according to plan
+安い (yasui) - cheap
+買いすぎない (kaisuginai) - to not buy too much
+便利だ (benri da) - convenient
+頼ってばかりいる (tayotte bakari iru) - to keep relying on
+困ること (komaru koto) - things that cause trouble
+運動 (undou) - exercise
+必要です (hitsuyou desu) - is necessary
+やりすぎてはいけません (yarisugite wa ikemasen) - must not overdo it
+試験 (shiken) - exam
+終わった (owatta) - finished
+遊びすぎないでください (asobisuginaide kudasai) - please don't play too much
+欲しい (hoshii) - to want
+えさ (esa) - pet food, feed
+ひまだ (hima da) - to be free, not busy
+忙しい (isogashii) - busy
+ごろごろしないで (gorogoro shinaide) - to not laze around
+部屋 (heya) - room
+片付けなさい (katadukenasai) - tidy up (command form)
+熱 (netsu) - fever
+上がった (agatta) - went up
+下がった (sagatta) - went down
+無理をしてはいけません (muri o shite wa ikemasen) - must not overdo it
+就職 (shuushoku) - finding employment
+できる (dekiru) - can do, to be able to do
+限らない (kagiranai) - not limited to, not necessarily
+一般的 (ippanteki) - general
+あてはまらない (atehamaranai) - does not apply
+言うとき (iu toki) - when saying
+使う (tsukau) - to use
+形 (katachi) - form, shape
+最近 (saikin) - recently
+贈るもの (okuru mono) - gift, thing to give
+海外 (kaigai) - overseas
+人気が出る (ninki ga deru) - to become popular
+日本 (nihon) - Japan
+大企業 (daikigyou) - large corporation
+倒産しない (tousan shinai) - to not go bankrupt
+駅の近く (eki no chikaku) - near the station
+通勤に便利だ (tsuukin ni benri da) - convenient for commuting
+急行が止まらない (kyuukou ga tomaranai) - express train doesn't stop
+意外に (igai ni) - unexpectedly
+不便です (fuben desu) - is inconvenient
+機能 (kinou) - function
+多くても (ookutemo) - even if there are many
+使いやすい (tsukaiyasui) - easy to use
+合わせて (awasete) - according to, to match
+お選びください (oerabi kudasai) - please choose (honorific)
+社長 (shachou) - company president
+意見 (iken) - opinion
+必ずしも (kanarazushimo) - not always, not necessarily
+正しい (tadashii) - correct
+決まっている (kimatteiru) - to be decided, to be certain
+真冬 (mafuyu) - midwinter
+一枚 (ichimai) - one (for flat objects like shirts)
+出かけた (dekaketa) - went out
+寒い (samui) - cold
+決まっている (kimatteiru) - to be certain
+何の説明もなく (nan no setsumei mo naku) - without any explanation
+消費税 (shouhizei) - consumption tax
+上げる (ageru) - to raise
+国民 (kokumin) - citizens, the people
+反対する (hantai suru) - to oppose
+お茶 (ocha) - tea
+花粉症 (kafunshou) - hay fever
+効果がある (kouka ga aru) - to be effective
+すべて (subete) - all
+人 (hito) - person
+買いすぎて (kaisugite) - to buy too much
+冷凍庫 (reitouko) - freezer
+入りきらない (hairikiranai) - cannot fit completely
+食べちゃう (tabechau) - to eat up (casual form)
+今日 (kyou) - today
+星占い (hoshiuranai) - horoscope
+悪かった (warukatta) - was bad
+気にしない (ki ni shinai) - to not mind, to not worry
+当たる (ataru) - to come true, to be correct (for predictions)
+難しい (muzukashii) - difficult
+文章 (bunshou) - writing, text
+辞書 (jisho) - dictionary
+読める (yomeru) - can read
+新聞 (shinbun) - newspaper
+書いてあること (kaite aru koto) - what is written
+正しい (tadashii) - correct
+自分で (jibun de) - by oneself
+考えること (kangaeru koto) - to think
+必要だ (hitsuyou da) - is necessary
+いつも (itsumo) - always
+一緒に (issho ni) - together
+練習している (renshuu shiteiru) - is practicing
+選手 (senshu) - athlete
+争う (arasou) - to compete for
+彼 (kare) - he
+自分 (jibun) - oneself
+がんばれる (ganbareru) - can do one's best
+友だち (tomodachi) - friend
+連絡もしないで (renraku mo shinaide) - without contacting
+突然 (totsuzen) - suddenly
+家へ行く (ie e iku) - to go to someone's house
+失礼です (shitsurei desu) - it is rude
+父 (chichi) - father
+禁煙 (kin'en) - quitting smoking
+言っている (itteiru) - is saying
+一週間以上 (isshuukan ijou) - more than one week
+煙草を吸っている (tabako o sutteiru) - is smoking
+見たことがない (mita koto ga nai) - have never seen
+選択 (sentaku) - choice
+身近な人 (mijika na hito) - familiar person
+やや (yaya) - a little, somewhat
+批判的に (hihanteki ni) - critically
+評価 (hyouka) - assessment
+父 (chichi) - father
+母 (haha) - mother
+大学 (daigaku) - university
+劇団 (gekidan) - theater company
+仕事 (shigoto) - job, work
+熱心に (nesshin ni) - enthusiastically
+出てからにしたら (dete kara ni shitara) - if one were to do it after graduating
+言った (itta) - said
+ほんとに (honto ni) - really
+がんこ (ganko) - stubborn
+世の中 (yo no naka) - the world, society
+何も知らない (nani mo shiranai) - to know nothing
+くせに (kuse ni) - although, in spite of
+出たほうがいい (deta hou ga ii) - it is better to graduate
+思う (omou) - to think
+本気 (honki) - serious
+お父さん (otousan) - father
+甘やかす (amayakasu) - to spoil, to pamper
+いつまでも (itsu made mo) - forever
+子どもっぽい (kodomoppoi) - childish
+夢 (yume) - dream
+追いかける (oikakeru) - to chase after
+せい (sei) - fault
+人生 (jinsei) - life
+きっと (kitto) - surely
+がんばる (ganbaru) - to do one's best
+ありがとう (arigatou) - thank you
+甘い (amai) - lenient, indulgent
+がんこ (ganko) - stubborn
+驚き (odoroki) - surprise
+感動 (kandou) - being impressed, moved
+怒り (ikari) - anger, rage
+感情 (kanjou) - feeling, emotion
+強く (tsuyoku) - strongly
+表現したい (hyougen shitai) - to want to express
+形 (katachi) - form, shape
+美しさ (utsukushisa) - beauty
+一緒に (issho ni) - together
+花見 (hanami) - flower viewing
+客 (kyaku) - guest, customer
+多い (ooi) - many
+桜 (sakura) - cherry blossom
+見られない (mirarenai) - to be unable to see
+店員 (ten'in) - store clerk
+態度 (taido) - attitude
+ひどい (hidoi) - terrible, awful
+もう二度と (mou nidoto) - never again
+行きたくない (ikitakunai) - to not want to go
+沖縄 (okinawa) - Okinawa
+海 (umi) - sea, ocean
+青さ (aosa) - blueness
+まるで (marude) - as if, just like
+映画 (eiga) - movie
+見ているようでした (miteiru you deshita) - it was like watching
+何も知らない (nani mo shiranai) - to know nothing
+相手 (aite) - the other person
+対して (taishite) - towards
+印象 (inshou) - impression
+持っている (motteiru) - to have
+軽い (karui) - light, non-serious
+気持ち (kimochi) - feeling
+言い方 (iikata) - way of speaking
+今すぐ (imasugu) - right away
+行きます (ikimasu) - to go
+言った (itta) - said
+一時間 (ichijikan) - one hour
+来ない (konai) - to not come
+先輩 (senpai) - senior
+休みませんか (yasumimasen ka) - won't you rest?
+疲れた (tsukareta) - to be tired
+若い (wakai) - young
+体力がない (tairyoku ga nai) - to have no physical strength
+本当は (hontou wa) - in reality
+彼女 (kanojo) - she, girlfriend
+好き (suki) - to like
+いつも (itsumo) - always
+意地悪を言う (ijiwaru o iu) - to say mean things
+文句ばかり言う (monku bakari iu) - to do nothing but complain
+何もしない (nani mo shinai) - to do nothing
+昨日 (kinou) - yesterday
+時間 (jikan) - hour
+勉強した (benkyou shita) - studied
+会社 (kaisha) - company
+一流企業 (ichiryuu kigyou) - first-class enterprise
+悪い (warui) - bad
+雨が降っている (ame ga futteiru) - it is raining
+試合 (shiai) - match, game
+続いている (tsudzuiteiru) - is continuing
+予約しておいた (yoyaku shite oita) - made a reservation in advance
+予約が入っていない (yoyaku ga haitteinai) - there is no reservation
+言われた (iwareta) - was told
+学生 (gakusei) - student
+高級車 (koukyuusha) - high-class car
+乗って (notte) - to ride
+遊んでばかりいる (asonde bakari iru) - to do nothing but play
+店 (mise) - shop
+高い (takai) - expensive
+おいしくない (oishikunai) - not delicious
+子どもっぽい (kodomoppoi) - childish
+夢 (yume) - dream
+見たとき (mita toki) - when one sees
+印象 (inshou) - impression
+見える (mieru) - to look, to appear
+感じる (kanjiru) - to feel
+使う (tsukau) - to use
+いつも (itsumo) - always
+黒っぽい (kuruppoi) - blackish
+服 (fuku) - clothes
+着ている (kiteiru) - is wearing
+明るい (akarui) - bright
+色 (iro) - color
+嫌い (kirai) - to dislike
+変える (kaeru) - to change
+ずいぶん (zuibun) - very, considerably
+大人っぽい (otonappoi) - adult-like
+時計 (tokei) - watch, clock
+物 (mono) - thing
+高かった (takakatta) - was expensive
+本物っぽく (honmonoppoku) - like a real thing
+実は (jitsu wa) - actually, in fact
+にせもの (nisemono) - fake, imitation
+具合悪そう (guai warusou) - looking unwell
+大丈夫 (daijoubu) - okay
+朝から (asa kara) - since this morning
+熱っぽい (netsuppoi) - feverish
+家を建てる (ie o tateru) - to build a house
+部屋 (heya) - room
+壁 (kabe) - wall
+感じ (kanji) - feeling, sense
+さっき (sakki) - a little while ago
+人 (hito) - person
+訪ねてきた (tazunete kita) - came to visit
+弟さん (otoutosan) - younger brother (polite)
+買った (katta) - bought
+自分で (jibun de) - by oneself
+するだけで (suru dake de) - just by doing
+なります (narimasu) - to become
+独特の (dokutoku no) - unique, peculiar
+におい (nioi) - smell, scent
+嫌う (kirau) - to dislike, to hate
+学生 (gakusei) - student
+白 (shiro) - white
+薬 (kusuri) - medicine
+手作り (tezukuri) - handmade
+形 (katachi) - form, shape
+意味 (imi) - meaning
+使われる (tsukawareru) - is used
+飽きる (akiru) - to get tired of, to lose interest
+怒る (okoru) - to get angry
+忘れる (wasureru) - to forget
+課長 (kachou) - section manager
+怒りっぽい (okorippoi) - quick-tempered, irritable
+君 (kimi) - you (informal)
+忘れっぽい (wasureppoi) - forgetful
+いつも (itsumo) - always
+取るようにしなさい (toru you ni shinasai) - make a habit of taking (e.g. notes)
+飽きっぽい (akippoi) - gets bored easily, fickle
+方法 (houhou) - method, way
+楽しみながら (tanoshiminagara) - while enjoying
+練習できる (renshuu dekiru) - to be able to practice
+長続きします (nagatsudzuki shimasu) - to last long
+お父さん (otousan) - father
+悪い (warui) - bad
+結果 (kekka) - result, outcome
+理由 (riyuu) - reason
+強く言う (tsuyoku iu) - to say strongly
+はっきりわからない (hakkiri wakaranai) - to not understand clearly
+連日 (renjitsu) - day after day
+暑さ (atsusa) - heat
+庭 (niwa) - garden
+花 (hana) - flower
+全部 (zenbu) - all, entirely
+枯れてしまった (karete shimatta) - has withered
+部屋 (heya) - room
+古い (furui) - old
+音 (oto) - sound
+うるさくて (urusakute) - noisy and...
+寝られない (nerarenai) - cannot sleep
+迷惑かけちゃって (meiwaku kakechatte) - to have caused trouble (casual)
+舞台 (butai) - stage performance
+本番前 (honbanmae) - before the actual performance
+緊張している (kinchou shiteiru) - to be nervous
+のどがかわく (nodo ga kawaku) - to become thirsty
+気のせい (ki no sei) - one's imagination
+駅前 (ekimae) - in front of the station
+パン屋 (pan'ya) - bakery
+小さくなった (chiisaku natta) - became smaller
+ような気がする (you na ki ga suru) - to have a feeling that
+今年の夏 (kotoshi no natsu) - this summer
+涼しい (suzushii) - cool
+彼女 (kanojo) - she, girlfriend
+休み (yasumi) - rest, holiday
+入ってなかった (haitte nakatta) - was not installed
+海水浴客 (kaisuiyokukyaku) - beachgoers
+例年より (reinen yori) - than usual years
+少ない (sukunai) - few, little
+感染してしまった (kansen shite shimatta) - ended up getting infected
+屋上 (okujou) - rooftop
+富士山 (fujisan) - Mt. Fuji
+見えなくなった (mienaku natta) - became invisible
+今日 (kyou) - today
+元気がない (genki ga nai) - to be listless, not energetic
+知っている人 (shitteiru hito) - person one knows
+名前をあげ (namae o age) - to give a name
+性格 (seikaku) - personality
+考えると (kangaeru to) - when one considers
+きっと (kitto) - surely, certainly
+人名 (jinmei) - person's name
+会社名 (kaishamei) - company name
+組織名 (soshikimei) - organization name
+入る (hairu) - to be included, to enter
+選手 (senshu) - athlete
+本番 (honban) - the actual event/performance
+さらに (sara ni) - furthermore
+すばらしい (subarashii) - wonderful, splendid
+演技 (engi) - performance, acting
+見せてくれる (misete kureru) - to show (to us/me)
+引っ越して (hikkoshite) - to move house and...
+さびしくなった (sabishiku natta) - became lonely
+元気 (genki) - energetic, healthy
+まだ来ていません (mada kite imasen) - has not come yet
+間に合う (ma ni au) - to be on time
+また (mata) - again
+遅刻です (chikoku desu) - is late
+先に行きましょう (saki ni ikimashou) - let's go ahead
+御社 (onsha) - your company (honorific)
+今までにない (ima made ni nai) - unprecedented
+まったく新しい (mattaku atarashii) - completely new
+製品 (seihin) - product
+作ってくださる (tsukutte kudasaru) - to make (for us, honorific)
+期待して (kitai shite) - to expect and...
+待っています (matte imasu) - are waiting
+やさしい (yasashii) - gentle, kind
+君 (kimi) - you (informal)
+大丈夫 (daijoubu) - okay, alright
+思う (omou) - to think
+練習熱心な (renshuu nesshin na) - diligent in practice
+資料 (shiryou) - materials, data
+取り扱い (toriatsukai) - handling
+注意してくれ (chuui shite kure) - be careful (informal request)
+今年も (kotoshi mo) - this year as well
+抜群の (batsugun no) - outstanding, exceptional
+見せてくれる (misete kureru) - to show (for me/us)
+頼めば (tanomeba) - if you ask
+雨でも (ame demo) - even in the rain
+散歩に行きたがる (sanpo ni ikitagaru) - to show signs of wanting to go for a walk
+服 (fuku) - clothes
+かわいい (kawaii) - cute
+子ども (kodomo) - child
+こわれた (kowareta) - broke
+締め切り (shimekiri) - deadline
+出せなくなってしまった (dasenaku natte shimatta) - ended up being unable to submit
+優秀な (yuushuu na) - excellent, brilliant
+刑事 (keiji) - police detective
+もう (mou) - already
+犯人 (hannin) - criminal
+わかっているはずだ (wakatteiru hazu da) - must know
+日本人 (nihonjin) - Japanese person
+納豆 (nattou) - natto (fermented soybeans)
+食べられない (taberarenai) - cannot eat
+留学生 (ryuugakusei) - international student
+言われた (iwareta) - was told

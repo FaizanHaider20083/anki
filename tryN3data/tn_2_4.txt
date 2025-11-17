@@ -1,0 +1,194 @@
+ペット (petto): Pet
+家族 (kazoku): Family
+生活 (seikatsu): Life, lifestyle
+自分 (jibun): Oneself
+関係 (kankei): Relationship
+説明する (setsumei suru): To explain
+近く (chikaku): Nearby
+公園 (kouen): Park
+周 (shuu): Lap, circuit (as a counter)
+いつも (itsumo): Always
+散歩 (sanpo): Walk, stroll
+帰る (kaeru): To go home, to return
+いやがる (iyagaru): To dislike, to be unwilling
+動く (ugoku): To move
+ズボン (zubon): Trousers, pants
+ポケット (poketto): Pocket
+好き (suki): Liked, favorite
+クッキー (kukkii): Cookie
+取り出す (toridasu): To take out
+喜ぶ (yorokobu): To be delighted, to be pleased
+ときどき (tokidoki): Sometimes
+帰り (kaeri): Return trip, on the way home
+コンビニ (konbini): Convenience store
+寄る (yoru): To stop by, to drop in
+前 (mae): Front, in front of
+待つ (matsu): To wait
+買い物 (kaimono): Shopping
+戻る (modoru): To return, to come back
+大喜び (ooyorokobi): Great joy, delight
+顔 (kao): Face
+なめる (nameru): To lick
+くすぐったい (kusuguttai): Ticklish
+本当に (hontou ni): Really, truly
+かわいい (kawaii): Cute
+相手 (aite): The other person, partner
+批判する (hihan suru): To criticize
+気持ち (kimochi): Feeling, mood
+表す (arawasu): To express, to show
+小さい (chiisai): Small
+子ども (kodomo): Child
+道 (michi): Road, street
+渡る (wataru): To cross
+一人で (hitori de): Alone, by oneself
+生まれる (umareru): To be born
+馬 (uma): Horse
+赤ちゃん (akachan): Baby
+一生懸命 (isshoukenmei): With all one's might, very hard
+立つ (tatsu): To stand
+昔 (mukashi): Old times, long ago
+友だち (tomodachi): Friend
+名前 (namae): Name
+思い出す (omoidasu): To remember, to recall
+試験 (shiken): Exam
+近い (chikai): Near, close
+ぜんぜん (zenzen): Not at all (used with a negative verb)
+勉強する (benkyou suru): To study
+動作 (dousa): Action, movement
+状態 (joutai): State, condition
+予想する (yosou suru): To expect, to anticipate
+起きる (okiru): To happen, to occur
+場合 (baai): Case, situation
+出かける (dekakeru): To go out
+雨が降る (ame ga furu): To rain
+レジ (reji): Cash register
+お金 (okane): Money
+払う (harau): To pay
+財布 (saifu): Wallet
+さっき (sakki): A little while ago
+紹介する (shoukai suru): To introduce
+方 (kata): Person (polite)
+教える (oshieru): To teach, to tell
+地震 (jishin): Earthquake
+急ぐ (isogu): To hurry
+逃げる (nigeru): To escape
+転ぶ (korobu): To fall down
+けがをする (kega o suru): To get injured
+開ける (akeru): To open
+寝る (neru): To sleep
+宿題 (shukudai): Homework
+寄る (yoru): To stop by
+たまに (tamani): Occasionally
+地方 (chihou): Region, area
+雪が降る (yuki ga furu): To snow
+大学 (daigaku): University
+横浜 (yokohama): Yokohama (city name)
+キャンパス (kyanpasu): Campus
+ふだん (fudan): Usually, normally
+ストレスがたまる (sutoresu ga tamaru): To get stressed out
+眠る (nemuru): To sleep
+店 (mise): Shop, store
+営業時間 (eigyou jikan): Business hours
+昼過ぎ (hirusugi): Just after noon
+全部 (zenbu): All, everything
+売り切れる (urikireru): To be sold out
+私 (watashi): I, me
+たいてい (taitei): Usually, generally
+うち (uchi): Home, house
+ご飯 (gohan): Meal, cooked rice
+食べる (taberu): To eat
+図書館 (toshokan): Library
+本 (hon): Book
+整理 (seiri): Sorting, arranging
+ため (tame): For the sake of, for the purpose of
+休館日 (kyuukanbi): Closing day (for a library/museum)
+以外 (igai): Other than, except for
+閉まる (shimaru): To be closed
+気をつける (ki o tsukeru): To be careful, to pay attention
+疲れる (tsukareru): To get tired
+目覚まし時計 (mezamashi dokei): Alarm clock
+鳴る (naru): To ring, to sound
+起きる (okiru): To get up, to wake up
+いつも (itsumo): Always
+駅 (eki): Station
+歩く (aruku): To walk
+行く (iku): To go
+たまに (tamani): Occasionally
+自転車 (jitensha): Bicycle
+相手 (aite): The other person, partner
+動作 (dousa): Action, movement
+続ける (tsuzukeru): To continue
+指示する (shiji suru): To instruct, to indicate
+表す (arawasu): To express, to show
+行動 (koudou): Action, behavior
+変える (kaeru): To change
+やめる (yameru): To stop, to quit
+そのまま (sonomama): As it is, without change
+自分 (jibun): Oneself
+下 (shita): Below, lower
+動物 (doubutsu): Animal
+多い (ooi): Many, much
+夏 (natsu): Summer
+車 (kuruma): Car
+中 (naka): Inside
+子ども (kodomo): Child
+待つ (matsu): To wait
+危険 (kiken): Dangerous
+家事 (kaji): Housework
+間 (aida): While, during
+おもちゃ (omocha): Toy
+遊ぶ (asobu): To play
+息子 (musuko): Son
+何 (nani): What
+言う (iu): To say
+聞く (kiku): To listen, to hear
+勝手に (katte ni): As one pleases, without permission
+顔 (kao): Face
+迷惑 (meiwaku): Annoyance, trouble
+残念 (zannen): Unfortunate, regrettable
+思う (omou): To think
+片思い (kataomoi): Unrequited love
+彼 (kare): He, boyfriend
+映画 (eiga): Movie
+誘う (sasou): To invite
+断る (kotowaru): To refuse, to decline
+あとで (ato de): Later
+ケーキ (keeki): Cake
+妹 (imouto): Younger sister
+ハイキング (haikingu): Hiking
+はち (hachi): Bee, wasp
+刺す (sasu): To sting, to bite (insect)
+言葉 (kotoba): Word, language
+足りない (tarinai): Not enough, insufficient
+誤解する (gokai suru): To misunderstand
+ライバル (raibaru): Rival
+社 (sha): Company (as a suffix)
+大雨 (ooame): Heavy rain
+わが社 (wagasha): Our company
+新製品 (shinseihin): New product
+企画 (kikaku): Plan, project
+知る (shiru): To know
+成績 (seiseki): Grades, results
+悪い (warui): Bad
+先生 (sensei): Teacher
+もっと (motto): More
+バーゲン (baagen): Bargain sale
+会場 (kaijou): Venue, site
+ほしい (hoshii): To want
+バッグ (baggu): Bag
+ほか (hoka): Other
+昨日 (kinou): Yesterday
+途中 (tochuu): On the way, halfway
+弟 (otouto): Younger brother
+部屋 (heya): Room
+汚い (kitanai): Dirty
+そうじ (souji): Cleaning
+人間 (ningen): Human being
+失敗 (shippai): Failure, mistake
+また (mata): Again
+今度 (kondo): Next time
+がんばる (ganbaru): To do one's best, to try hard
+元気出す (genki dasu): To cheer up
+けんかする (kenka suru): To have a fight, to quarrel
+翌日 (yokujitsu): The next day
+無視 (mushi): Ignoring, disregarding

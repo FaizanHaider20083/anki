@@ -1,0 +1,607 @@
+里山 (satoyama) - Traditionally managed forest and landscape near a village
+環境 (kankyō) - Environment
+問題 (mondai) - Problem, issue
+発表 (happyō) - Presentation, announcement
+問題提起 (mondai teiki) - Raising a question, posing a problem
+自分 (jibun) - Oneself
+意見 (iken) - Opinion
+自然 (shizen) - Nature
+空気 (kūki) - Air
+水 (mizu) - Water
+恵まれる (megumareru) - To be blessed with
+四季 (shiki) - Four seasons
+通じて (tsūjite) - Through, throughout
+美しい (utsukushii) - Beautiful
+風景 (fūkei) - Scenery
+楽しむ (tanoshimu) - To enjoy
+皆さん (minasan) - Everyone
+守る (mamoru) - To protect
+思う (omou) - To think
+保護 (hogo) - Protection, conservation
+残す (nokosu) - To leave, to preserve
+考える (kangaeru) - To think
+上手 (jōzu) - Skillful, good at
+利用 (riyō) - Use, utilization
+作る (tsukuru) - To make
+状態 (jōtai) - State, condition
+保つ (tamotsu) - To maintain, to keep
+原因 (gen'in) - Cause
+結果 (kekka) - Result
+感謝 (kansha) - Gratitude, thanks
+気持ち (kimochi) - Feeling
+今年 (kotoshi) - This year
+夏 (natsu) - Summer
+新しい (atarashii) - New
+快適 (kaiteki) - Comfortable
+過ごす (sugosu) - To spend (time)
+子供 (kodomo) - Child
+病気 (byōki) - Sickness, illness
+治る (naoru) - To be cured, to get well
+先生 (sensei) - Teacher
+手伝う (tetsudau) - To help, to assist
+引っ越し (hikkoshi) - Moving (house)
+早い (hayai) - Early, fast
+済む (sumu) - To finish, to end
+気候 (kikō) - Climate
+温暖 (ondan) - Warm, mild
+辺り (atari) - Vicinity, neighborhood
+作る (tsukuru) - To make, to produce
+甘い (amai) - Sweet
+評判 (hyōban) - Reputation, fame
+元気 (genki) - Healthy, energetic
+車 (kuruma) - Car
+送る (okuru) - To send, to take (someone somewhere)
+約束 (yakusoku) - Promise, appointment
+時間 (jikan) - Time
+間に合う (maniau) - To be in time for
+最近 (saikin) - Recently
+運動 (undō) - Exercise
+息が切れる (ikigakireru) - To be out of breath
+禁煙 (kin'en) - Quitting smoking
+父 (chichi) - Father
+会社 (kaisha) - Company
+倒産 (tōsan) - Bankruptcy
+奨学金 (shōgakukin) - Scholarship
+勉強 (benkyō) - Study
+続ける (tsuzukeru) - To continue
+山手線 (yamanotesen) - Yamanote Line (train line in Tokyo)
+現在 (genzai) - Currently
+強風 (kyōfū) - Strong wind
+運転 (unten) - Driving, operation
+見合わせる (miawaseru) - To postpone, to suspend
+言葉 (kotoba) - Word, language
+一年 (ichinen) - One year
+一生 (isshō) - Whole life, a lifetime
+一緒 (issho) - Together
+京都 (kyōto) - Kyoto
+観光客 (kankōkyaku) - Tourist
+訪れる (otozureru) - To visit
+工場 (kōjō) - Factory
+年間 (nenkan) - Yearly, throughout the year
+気温 (kion) - Air temperature
+湿度 (shitsudo) - Humidity
+一定 (ittei) - Fixed, constant
+保つ (tamotsu) - To keep, to maintain
+弟 (otōto) - Younger brother
+中学 (chūgaku) - Junior high school
+無遅刻 (muchikoku) - Never late
+無欠席 (mukesseki) - Perfect attendance
+守る (mamoru) - To protect
+思う (omou) - To think
+私 (watashi) - I, me
+同じ (onaji) - Same
+聞き手 (kikite) - Listener, audience
+同意 (dōi) - Agreement
+求める (motomeru) - To ask for, to seek
+使う (tsukau) - To use
+男性 (dansei) - Male
+場合 (baai) - Case, situation
+形 (katachi) - Form, shape
+最近 (saikin) - Recently
+自転車 (jitensha) - Bicycle
+通勤する (tsūkin suru) - To commute to work
+人 (hito) - Person
+増える (fueru) - To increase
+昔 (mukashi) - The past, long ago
+少ない (sukunai) - Few, a little
+寒い (samui) - Cold
+窓 (mado) - Window
+閉める (shimeru) - To close
+上着 (uwagi) - Jacket, outerwear
+座る (suwaru) - To sit
+におい (nioi) - Smell, scent
+パン屋 (pan'ya) - Bakery
+営業 (eigyō) - Sales, business
+ほんと (honto) - Really, truly
+時計 (tokei) - Watch, clock
+高い (takai) - Expensive, high
+ホームページ (hōmupēji) - Homepage
+イラスト (irasuto) - Illustration
+入れる (ireru) - To put in, to add
+見やすい (miyasui) - Easy to see
+毎日 (mainichi) - Every day
+残業 (zangyō) - Overtime work
+仕事 (shigoto) - Job, work
+つらい (tsurai) - Hard, painful, tough
+好き (suki) - Like, favorite
+仕事 (shigoto) - Job, work
+大変 (taihen) - Difficult, tough
+思う (omou) - To think
+楽しい (tanoshii) - Fun, enjoyable
+部長 (buchō) - Department manager
+許可 (kyoka) - Permission
+契約 (keiyaku) - Contract
+進める (susumeru) - To proceed with, to advance
+問題 (mondai) - Problem
+大丈夫 (daijōbu) - Okay, alright
+心配 (shinpai) - Worry
+順調 (junchō) - Favorable, smooth
+進む (susumu) - To proceed, to advance
+借りる (kariru) - To borrow, to rent
+買う (kau) - To buy
+大学生 (daigakusei) - University student
+簡単 (kantan) - Simple, easy
+自然保護 (shizen hogo) - Nature conservation
+言葉 (kotoba) - Word, language
+多く (ōku) - Many, much
+人 (hito) - Person
+物事 (monogoto) - Things, matters
+言う (iu) - To say
+使う (tsukau) - To use
+有名 (yūmei) - Famous
+代表的 (daihyōteki) - Representative, typical
+多い (ōi) - Many
+日本 (nihon) - Japan
+花 (hana) - Flower
+桜 (sakura) - Cherry blossom
+頭 (atama) - Head
+浮かぶ (ukabu) - To come to mind, to float
+外国人 (gaikokujin) - Foreigner
+人気 (ninki) - Popularity
+観光地 (kankōchi) - Tourist spot
+京都 (kyōto) - Kyoto
+冬 (fuyu) - Winter
+現在形 (genzaikei) - present form
+今月 (kongetsu) - this month
+中 (chuu) - in, during
+入会 (nyuukai) - admission, joining
+一か月分 (ikkagetsubun) - one month's worth
+会費 (kaihi) - membership fee
+無料 (muryou) - free of charge
+午後 (gogo) - afternoon, P.M.
+五時 (goji) - 5 o'clock
+前 (mae) - before
+来店 (raiten) - coming to a store
+一杯 (ippai) - one cup/glass
+継続 (keizoku) - continuation
+手続き (tetsuzuki) - procedure, formalities
+再度 (saido) - again
+入会金 (nyuukaikin) - admission fee
+必要 (hitsuyou) - necessary
+注意 (chuui) - caution, attention
+使う (tsukau) - to use
+今週 (konshuu) - this week
+水曜 (suiyou) - Wednesday
+航空便 (koukuubin) - airmail
+支払い (shiharai) - payment
+当店 (touten) - this store
+利用 (riyou) - use, utilization
+前日 (zenjitsu) - the previous day
+料金 (ryoukin) - fee, charge
+全商品 (zenshouhin) - all products
+右手 (migite) - right hand
+受付 (uketsuke) - reception
+一週間 (isshuukan) - one week
+届く (todoku) - to arrive, to be delivered
+時間 (jikan) - time
+状況 (joukyou) - situation
+様子 (yousu) - appearance, situation
+観察 (kansatsu) - observation
+言う (iu) - to say
+印象 (inshou) - impression
+形 (katachi) - form, shape
+仕事 (shigoto) - work, job
+終わる (owaru) - to finish
+遅く (osoku) - late
+六時 (rokuji) - 6 o'clock
+過ぎる (sugiru) - to pass, to exceed
+先 (saki) - first, ahead
+日本 (nihon) - Japan
+山 (yama) - Mountain
+国 (kuni) - Country
+有名 (yūmei) - Famous
+思い出す (omoidasu) - To recall, to remember
+世界中 (sekaijū) - All over the world
+人気 (ninki) - Popular
+残す (nokosu) - To leave, to preserve
+一般的 (ippanteki) - General, common
+当然 (tōzen) - Natural, a matter of course
+正しい (tadashii) - Correct
+言う (iu) - To say
+使う (tsukau) - To use
+相手 (aite) - The other person, partner
+行為 (kōi) - Act, conduct
+強い (tsuyoi) - Strong
+意味 (imi) - Meaning
+注意 (chūi) - Caution, attention
+お金 (okane) - Money
+借りる (kariru) - To borrow
+返す (kaesu) - To return (something)
+上司 (jōshi) - Boss, superior
+相談する (sōdan suru) - To consult
+悩む (nayamu) - To be worried, to be troubled
+慣れる (nareru) - To get used to
+雪道 (yukimichi) - Snowy road
+運転 (unten) - Driving
+思う (omou) - To think
+特に (toku ni) - Particularly, especially
+問題 (mondai) - Problem
+仕事 (shigoto) - Work, job
+経過 (keika) - Progress, development
+報告する (hōkoku suru) - To report
+全て (subete) - All, everything
+自信 (jishin) - Confidence
+持つ (motsu) - To have, to hold
+試合 (shiai) - Match, game
+後悔 (kōkai) - Regret
+早く (hayaku) - Early, quickly
+試験 (shiken) - Exam, test
+準備 (junbi) - Preparation
+面接試験 (mensetsu shiken) - Interview (exam)
+前 (mae) - Before
+社会 (shakai) - Society
+様子 (yōsu) - State, appearance, situation
+知る (shiru) - To know
+毎日 (mainichi) - Every day
+新聞 (shinbun) - Newspaper
+読む (yomu) - To read
+正しい (tadashii) - Correct
+思う (omou) - To think
+遠慮する (enryo suru) - To be reserved, to hesitate
+自分 (jibun) - Oneself
+意見 (iken) - Opinion
+言う (iu) - To say
+私 (watashi) - I, me
+いつも (itsumo) - Always
+電池 (denchi) - Battery
+切れる (kireru) - To run out, to die (battery)
+朝 (asa) - Morning
+充電する (jūden suru) - To charge
+後悔する (kōkai suru) - To regret
+当然 (tōzen) - A matter of course, natural
+守る (mamoru) - To keep (a promise), to protect
+約束 (yakusoku) - Promise
+人 (hito) - Person
+環境 (kankyō) - Environment
+立場 (tachiba) - Position, standpoint
+見る (miru) - To see, to view
+評価 (hyōka) - Evaluation, assessment
+表す (arawasu) - To express, to show
+言葉 (kotoba) - Word
+続く (tsuzuku) - To continue
+難しい (muzukashii) - Difficult
+大切 (taisetsu) - Important
+今回 (konkai) - This time
+旅行 (ryokō) - Trip, travel
+忘れる (wasureru) - To forget
+思い出 (omoide) - Memory
+農家 (nōka) - Farmer
+天候不順 (tenkō fujun) - Unseasonable weather
+深刻 (shinkoku) - Serious
+問題 (mondai) - Problem
+一番 (ichiban) - Number one, the most
+健康 (kenkō) - Health
+消費者 (shōhisha) - Consumer
+企業 (kigyō) - Company, enterprise
+便利 (benri) - Convenient
+都会 (tokai) - City
+色々 (iroiro) - Various
+若者 (wakamono) - Young people
+楽しい (tanoshii) - Fun
+女の人 (onna no hito) - Woman
+年齢 (nenrei) - Age
+聞く (kiku) - To ask
+問題 (mondai) - Problem, issue
+人類 (jinrui) - Humanity, mankind
+大きい (ōkii) - Big, large
+課題 (kadai) - Task, challenge, issue
+市役所 (shiyakusho) - City hall, municipal office
+建設計画 (kensetsu keikaku) - Construction plan
+皆様 (minasama) - Everyone (polite)
+ご意見 (goiken) - Opinion (honorific)
+お待ちしております (omachishiteorimasu) - To be waiting (humble form)
+駅前 (ekimae) - In front of the station
+自転車 (jitensha) - Bicycle
+放置 (hōchi) - Neglect, leaving something behind
+警察 (keisatsu) - Police
+考える (kangaeru) - To think
+賛成 (sansei) - Approval, agreement
+反対 (hantai) - Opposition
+好き (suki) - Like
+嫌い (kirai) - Dislike
+対象 (taishō) - Target, object
+態度 (taido) - Attitude
+表す (arawasu) - To express, to show
+言葉 (kotoba) - Word
+使えない (tsukaenai) - Cannot use
+新しい (atarashii) - New
+空港 (kūkō) - Airport
+建設 (kensetsu) - Construction
+思う (omou) - To think
+私 (watashi) - I
+地域 (chiiki) - Area, region
+住民 (jūmin) - Resident
+少ない (sukunai) - Few, a little
+一番 (ichiban) - Number one, the most
+人形 (ningyō) - Doll
+古い (furui) - Old
+汚れる (yogoreru) - To get dirty
+大切 (taisetsu) - Important
+医学 (igaku) - Medical science
+進歩 (shinpo) - Progress, advancement
+平均寿命 (heikinjumyō) - Average life expectancy
+延びる (nobiru) - To be extended, to lengthen
+夏 (natsu) - Summer
+食べ物 (tabemono) - Food
+悪い (warui) - Bad
+正直 (shōjiki) - Honest
+謝る (ayamaru) - To apologize
+大型 (ōgata) - Large-sized
+町 (machi) - Town
+人々 (hitobito) - People
+有給休暇 (yūkyū kyūka) - Paid leave
+取る (toru) - To take
+多い (ōi) - Many
+日本人 (nihonjin) - Japanese people
+真面目 (majime) - Serious, diligent
+環境 (kankyō) - Environment
+具体例 (gutaiei) - Specific example
+結論 (ketsuron) - Conclusion
+話す (hanasu) - To speak
+全体 (zentai) - Whole, entirety
+発表 (happyō) - Presentation
+皆さん (minasan) - Everyone
+日本 (nihon) - Japan
+里山 (satoyama) - Traditionally managed forest and landscape near a village
+知る (shiru) - To know
+日本人 (nihonjin) - Japanese people
+家 (ie) - House
+近く (chikaku) - Near, nearby
+山 (yama) - Mountain
+森 (mori) - Forest
+呼ぶ (yobu) - To call
+利用する (riyō suru) - To use, to utilize
+例えば (tatoeba) - For example
+人 (hito) - Person
+木 (ki) - Tree
+切る (kiru) - To cut
+太陽 (taiyō) - Sun
+光 (hikari) - Light
+十分 (jūbun) - Enough, sufficient
+届く (todoku) - To reach
+元気 (genki) - Energetic, healthy
+残る (nokoru) - To remain
+太い (futoi) - Thick, fat
+育つ (sodatsu) - To grow
+根 (ne) - Root
+大きい (ōkii) - Big
+広がる (hirogaru) - To spread out
+大雨 (ōame) - Heavy rain
+山崩れ (yamakuzure) - Landslide
+自然災害 (shizen saigai) - Natural disaster
+減る (heru) - To decrease
+共存する (kyōzon suru) - To coexist
+田舎 (inaka) - Countryside
+東京 (tōkyō) - Tokyo
+私 (watashi) - I, me
+行く (iku) - To go
+たびに (tabi ni) - Each time, every time
+自然 (shizen) - Nature
+関係 (kankei) - Relationship
+考える (kangaeru) - To think
+はず (hazu) - Should be, expected to be
+きっかけ (kikkake) - Opportunity, chance
+思う (omou) - To think
+程度 (teido) - Degree, extent
+別 (betsu) - Different, another
+変わる (kawaru) - To change
+言う (iu) - To say
+使う (tsukau) - To use
+言葉 (kotoba) - Word, language
+勉強する (benkyō suru) - To study
+国 (kuni) - Country
+理解 (rikai) - Understanding
+深まる (fukamaru) - To deepen
+言われる (iwareru) - To be told, to be said
+旅行 (ryokō) - Trip, travel
+荷物 (nimotsu) - Luggage
+少ない (sukunai) - Few, a little
+楽 (raku) - Easy, comfortable
+持ち物 (mochimono) - Belongings
+増える (fueru) - To increase
+返事 (henji) - Reply, answer
+早い (hayai) - Early, fast
+条件 (jōken) - Condition, term
+政治家 (seijika) - Politician
+理想 (risō) - Ideal
+現実 (genjitsu) - Reality
+違い (chigai) - Difference
+悩む (nayamu) - To worry, to be troubled
+母親 (hahaoya) - Mother
+世の中 (yononaka) - The world, society
+平和 (heiwa) - Peace
+今日 (kyō) - Today
+疲れる (tsukareru) - To get tired
+体 (karada) - Body
+休む (yasumu) - To rest
+思う (omou) - To think
+面白い (omoshiroi) - Interesting
+彼 (kare) - He
+数学 (sūgaku) - Mathematics
+問題 (mondai) - Problem
+難しい (muzukashii) - Difficult
+寝る (neru) - To sleep
+警察 (keisatsu) - Police
+暇 (hima) - Free time
+大雨 (ōame) - Heavy rain
+山崩れ (yamakuzure) - Landslide
+原因 (gen'in) - Cause
+理由 (riyū) - Reason
+起こる (okoru) - To happen, to occur
+午前 (gozen) - A.M., morning
+地震 (jishin) - Earthquake
+発生 (hassei) - Outbreak, occurrence
+津波 (tsunami) - Tsunami
+心配 (shinpai) - Worry
+今回 (konkai) - This time
+大事故 (daijiko) - Major accident
+会社 (kaisha) - Company
+新商品 (shinshōhin) - New product
+知名度 (chimeido) - Name recognition, fame
+上がる (agaru) - To rise, to go up
+海外生活 (kaigai seikatsu) - Life overseas
+経験 (keiken) - Experience
+視野 (shiya) - Perspective, field of vision
+広がる (hirogaru) - To broaden, to spread out
+営業時間 (eigyō jikan) - Business hours
+延長 (enchō) - Extension
+病気 (byōki) - Sickness
+工場 (kōjō) - Factory
+大雨 (ōame) - Heavy rain
+洪水 (kōzui) - Flood
+被害 (higai) - Damage
+新しい (atarashii) - New
+必要 (hitsuyō) - Necessary
+無理 (muri) - Unreasonable, impossible
+店 (mise) - Shop, store
+売り上げ (uriage) - Sales
+大幅 (ōhaba) - Drastically, significantly
+伸びる (nobiru) - To grow, to increase
+選手 (senshu) - Athlete, player
+引退 (intai) - Retirement
+機械 (kikai) - Machine
+使う (tsukau) - To use
+田舎 (inaka) - Countryside
+東京 (tōkyō) - Tokyo
+意味 (imi) - Meaning
+落語 (rakugo) - Traditional Japanese comic storytelling
+最近 (saikin) - Recently
+お年寄り (otoshiyori) - Elderly person
+若い (wakai) - Young
+女性 (josei) - Woman
+人気 (ninki) - Popularity
+就職試験 (shūshoku shiken) - Job-hunting exam
+一般常識 (ippan jōshiki) - Common knowledge
+専門 (senmon) - Specialty
+筆記試験 (hikki shiken) - Written exam
+行われる (okonawareru) - To be held
+野菜 (yasai) - Vegetable
+値上がり (neagari) - Price increase
+夏 (natsu) - Summer
+気温 (kion) - Air temperature
+低い (hikui) - Low
+台風 (taifū) - Typhoon
+当社 (tōsha) - Our company
+社員食堂 (shain shokudō) - Company cafeteria
+安い (yasui) - Cheap
+栄養 (eiyō) - Nutrition
+評判 (hyōban) - Reputation
+運動する (undō suru) - To exercise
+十分 (jūbun) - Sufficient, enough
+休養 (kyūyō) - Rest
+取る (toru) - To take
+大切 (taisetsu) - Important
+少子化 (shōshika) - Declining birthrate
+日本 (nihon) - Japan
+設備 (setsubi) - Equipment, facilities
+古い (furui) - Old
+十分 (jūbun) - Sufficient, enough
+治療 (chiryō) - Medical treatment
+商品開発 (shōhin kaihatsu) - Product development
+技術 (gijutsu) - Technology, skill
+多く (ōku) - Many
+国 (kuni) - Country
+問題 (mondai) - Problem
+病院 (byōin) - Hospital
+医者 (isha) - Doctor
+足りない (tarinai) - To be insufficient
+幅 (haba) - Width
+狭い (semai) - Narrow
+初心者 (shoshinsha) - Beginner
+危険 (kiken) - Dangerous
+スキー場 (sukī-jō) - Ski resort
+斜面 (shamen) - Slope
+急 (kyū) - Steep
+他社 (tasha) - Other companies
+要求 (yōkyū) - Demand, request
+言い方 (iikata) - Way of saying, expression
+今日 (kyō) - Today
+電車 (densha) - Train
+足 (ashi) - Foot, leg
+踏む (fumu) - To step on
+入れる (ireru) - To put in
+学費 (gakuhi) - Tuition fees
+生活費 (seikatsuhi) - Living expenses
+全部 (zenbu) - All
+出す (dasu) - To provide, to pay for
+留学 (ryūgaku) - Study abroad
+里山 (satoyama) - Traditionally managed forest and landscape near a village
+行く (iku) - To go
+くり返し (kurikaeshi) - Repetition
+行われる (okonawareru) - To be done, to take place
+いつも (itsumo) - Always
+使う (tsukau) - To use
+父 (chichi) - Father
+出張 (shutchō) - Business trip
+お土産 (omiyage) - Souvenir
+買う (kau) - To buy
+知り合い (shiriai) - Acquaintance
+子 (ko) - Child
+会う (au) - To meet
+大きい (ōkii) - Big
+びっくりする (bikkuri suru) - To be surprised
+山 (yama) - Mountain
+登る (noboru) - To climb
+思う (omou) - To think
+頂上 (chōjō) - Summit
+着く (tsuku) - To arrive
+体重計 (taijūkei) - Bathroom scale
+乗る (noru) - To get on, to ride
+新しい (atarashii) - New
+お菓子 (okashi) - Sweets, snack
+見る (miru) - To see
+買う (kau) - To buy
+来週 (raishū) - Next week
+京都 (kyōto) - Kyoto
+出張する (shutchō suru) - To go on a business trip
+書類 (shorui) - Document
+持つ (motsu) - To have, to hold
+帰る (kaeru) - To return
+高い (takai) - Tall, high
+建物 (tatemono) - Building
+増える (fueru) - To increase
+知らない (shiranai) - To not know
+町 (machi) - Town
+確か (tashika) - Certain, sure
+理由 (riyū) - Reason
+間違いなく (machigainaku) - Without a doubt
+言う (iu) - To say
+使う (tsukau) - To use
+会社 (kaisha) - Company
+資料 (shiryō) - Document, material
+送る (okuru) - To send
+昨日 (kinō) - Yesterday
+速達 (sokutatsu) - Special delivery
+出す (dasu) - To send out
+遅い (osoi) - Late
+明日 (ashita) - Tomorrow
+接待 (settai) - Entertaining guests
+頼む (tanomu) - To ask, to request
+お客様 (okyakusama) - Customer, guest
+手伝う (tetsudau) - To help
+留学 (ryūgaku) - Study abroad
+知る (shiru) - To know
+となり (tonari) - Next door
+変 (hen) - Strange
+音 (oto) - Sound
+今 (ima) - Now
